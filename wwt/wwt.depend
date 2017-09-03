@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1504434750 source:d:\wwt\main.cpp
+	<iostream>
+	<stack>
+
